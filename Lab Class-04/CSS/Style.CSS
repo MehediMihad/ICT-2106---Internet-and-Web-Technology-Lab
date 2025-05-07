@@ -1,0 +1,42 @@
+
+p::first-line{
+    color: blue;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.test-3{
+    width: 800px;
+    height: 150px;
+    margin: 10px;
+    border: 5px solid;
+    padding: 10px;
+}
+
+.nav{
+    width: 100%;
+    background-color: #077b32;
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.3s;
+    padding: 10px 25%;
+    font-size: 30px;
+    font-weight: 700;
+    z-index: 100;
+}
+
+input[type=text], select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(69, 88, 88);
+    border-radius: 1px;
+    box-sizing: border-box;
+}

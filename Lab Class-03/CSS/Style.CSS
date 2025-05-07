@@ -1,0 +1,47 @@
+table{
+    border: 5px;
+    background-color: brown;
+}
+th, tr, td{
+    background-color: rgb(171, 226, 226);
+    border: 2px rgb(7, 112, 7);
+    width: 50%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 15px;
+    
+}
+th, tr, td{
+    border: 1px solid green;
+    border: 40%;
+}
+
+th{
+    background-color: rgb(156, 129, 233);
+}
+.test{
+    background-color: aquamarine;
+    border-radius: 30%;
+    background-color: rgb(243, 193, 177);
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 00px;
+    border: 2px solid;
+    margin: 3px;
+}
+
+#myspan{
+    color: rgb(192, 24, 24);
+
+}
+.center{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
